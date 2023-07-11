@@ -1,0 +1,13 @@
+locations = ['bangkok', 'hong kong', 'stuttgart', 'lucerne', 'philadelphia']
+print(locations)
+print(sorted(locations))
+print(locations)
+locations.sort(reverse=True)
+print(locations)
+locations.reverse()
+print(locations)
+locations.reverse()
+print(locations)
+locations.sort()
+print(locations)
+locations.sort(reverse=True)
